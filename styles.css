@@ -3,3 +3,7 @@
 	background-color:yellow;
 	border-color:black;
 }
+#cap{
+	text-align:center;
+	caption-side:top;
+}
