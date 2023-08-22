@@ -2,6 +2,9 @@
 table, th, td {
 	background-color:yellow;
 	border: 1px solid black;
+	padding:2px;
+	border-spacing:2px;
+	
 }
 #cap{
     text-align:center;
