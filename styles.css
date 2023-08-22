@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
-#mytab{
+#mytable{
 	background-color:yellow;
-	border-color:black;
+	border: 1px solid black;
+	padding: 10px;
 }
 #cap{
     text-align:center;
